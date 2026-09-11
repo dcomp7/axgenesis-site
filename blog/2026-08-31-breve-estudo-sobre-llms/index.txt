@@ -1,0 +1,347 @@
+1:"$Sreact.fragment"
+2:I[1402,["177","static/chunks/app/layout-ecc657e2319ba017.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[7799,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1fcf197c11312f1f.js","584","static/chunks/app/blog/layout-f0fab485d86b0413.js"],"default"]
+6:I[7696,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1fcf197c11312f1f.js","584","static/chunks/app/blog/layout-f0fab485d86b0413.js"],"default"]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/878506a8f1ede162.css","style"]
+:HL["/_next/static/css/e613545fef98afdb.css","style"]
+:HL["/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9816a0e0ed309b6c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ba835e78b0110ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bc08e10e1c60a660-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cee54c58f389a0a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/bb9dfec9bfbb9552.css","style"]
+0:{"P":null,"b":"mrKaIQZq_Bmd7TMKn042A","p":"","c":["","blog","2026-08-31-breve-estudo-sobre-llms",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","2026-08-31-breve-estudo-sobre-llms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/878506a8f1ede162.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e613545fef98afdb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","href":"/assets/images/logo/logo.png?v251006","as":"image"}]}],["$","body",null,{"className":"__variable_b9c7ce antialiased font-inter","children":[["$","$L2",null,{"src":"/assets/js/wow.min.js","strategy":"beforeInteractive"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L2",null,{"src":"/assets/js/main.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/bb9dfec9bfbb9552.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","$L5",null,{}],["$","div",null,{"className":"__className_667262 pt-[100px] md:pt-[120px] lg:pt-[120px]","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]]}],{"children":[["slug","2026-08-31-breve-estudo-sobre-llms","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c495b3f85ed80416.js"],""]
+13:I[5721,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c495b3f85ed80416.js"],"default"]
+14:I[4310,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c495b3f85ed80416.js"],"default"]
+15:T76b5,<p>Embora pesquisas com modelos de linguagem e redes neurais generativas existissem há anos no meio acadêmico, foi somente em novembro de 2022 com a disponibilização do Chat GPT 3.5<sup class="citation"><a href="#ref-1" id="citeref-1">[1]</a></sup> para o público que a IA generativa começou a se popularizar e impactar de forma irreversível o mundo todo<sup class="citation"><a href="#ref-2" id="citeref-2">[2]</a></sup>.</p>
+<p>Desde então profissionais de tecnologia têm procurado se adaptar a esta nova realidade e nós não somos exceção. Large Language Models (LLMs), como o Chat GPT, são tecnicamente complexos e exigem grande investimento em pesquisa, desenvolvimento e infraestrutura. Por conta disso, na AXGenesis temos focado em realizar integrações de sistemas com as APIs de LLMs já existentes, além de procurar tirar o melhor proveito dessa tecnologia para ganho de produtividade no dia-a-dia.</p>
+<p>Ainda que nosso foco continue em integrações e que a "mecânica" interna das LLMs não seja nossa expertise, achamos oportuno realizar este estudo <strong>de forma exploratória</strong> a fim de consolidar e resumir sistematicamente o nosso conhecimento sobre o assunto, até porque muita novidade vem acontecendo e é sempre bom revisitar os conceitos e fundamentos do que integramos.</p>
+<h2>Metodologia</h2>
+<p>O estudo consiste em redações sobre determinados tópicos, fundamentadas com informações públicas e disponíveis na Internet, seguindo a seguinte estrutura:</p>
+<ul>
+<li>Resumo da evolução histórica da tecnologia</li>
+<li>Histórico de algumas iniciativas relacionadas a LLMs no Brasil</li>
+<li>Listagem de alguns LLMs em destaque em 2026</li>
+<li>Conclusão</li>
+</ul>
+<p>LLMs de diferentes fornecedores foram utilizados como ferramentas de apoio a fim de melhorar a qualidade do artigo, enquanto estrutura, decisões textuais e supervisão são humanas.</p>
+<blockquote>
+<p>Este artigo é um estudo interno, não exaustivo e poderá ser atualizado a qualquer momento na medida em que o mercado ou o nosso conhecimento sobre o assunto evolua.</p>
+</blockquote>
+<h2>Evolução histórica resumida da tecnologia</h2>
+<p>A evolução histórica aqui apresentada se divide em quatro fases, definidas assim por critério pessoal com fins estritamente didáticos. Há ainda um quinto tópico, destinado a mapear iniciativas relacionadas a LLMs no Brasil.</p>
+<h3>Fase 0 (pré-2022): Laboratório e precursores tecnológicos do Chat GPT 3.5</h3>
+<p>Muito antes do Chat GPT, a pergunta que move a inteligência artificial já rondava laboratórios acadêmicos: seria possível construir uma máquina que "pensa"? As primeiras respostas concretas, inspiradas na biologia, vieram nas décadas de 40 e 50 com modelos matemáticos simples de neurônios artificiais<sup class="citation"><a href="#ref-3" id="citeref-3">[3]</a></sup><sup class="citation"><a href="#ref-4" id="citeref-4">[4]</a></sup>, base do que hoje chamamos de redes neurais, sistemas organizados em camadas que aprendem padrões a partir de dados (geralmente enormes quantidades), ajustando pesos internos por meio de um processo chamado treinamento<sup class="citation"><a href="#ref-5" id="citeref-5">[5]</a></sup>.</p>
+<p>O campo da Computação dedicado a ensinar máquinas a lidar com texto, o Processamento de Linguagem Natural (PLN), por muito tempo a abordagem dominante foram as Redes Neurais Recorrentes (RNNs) e, posteriormente, as LSTMs (Long Short-Term Memory)<sup class="citation"><a href="#ref-6" id="citeref-6">[6]</a></sup>. Essas arquiteturas processavam o texto de forma estritamente sequencial, se degradava rapidamente em textos longos e o processamento sequencial impedia qualquer paralelização real no treinamento.</p>
+<p>O grande salto paradigmático aconteceu em 2017, quando o paper "Attention Is All You Need"<sup class="citation"><a href="#ref-7" id="citeref-7">[7]</a></sup> propôs abandonar a leitura sequencial em favor de uma ideia mais radical: e se o modelo pudesse olhar a frase inteira de uma vez? O mecanismo de <em>self-attention</em>, coração da arquitetura Transformer<sup class="citation"><a href="#ref-7" id="citeref-7">[7]</a></sup>, faz exatamente isso: calcula, para cada palavra, o quanto ela se relaciona com todas as outras da sequência, capturando contexto de longo alcance sem o gargalo da sequencialidade, abrindo caminho para o treinamento paralelo em GPUs — processadores originalmente projetados para renderizar gráficos, mas que se tornaram essenciais para IA por conseguirem executar milhares de operações matemáticas simultaneamente, em vez de uma de cada vez como uma CPU tradicional<sup class="citation"><a href="#ref-8" id="citeref-8">[8]</a></sup>.</p>
+<p>"Treinar" um desses modelos nada mais é do que expô-lo a bilhões de páginas de texto e ajustar, passo a passo, seus parâmetros internos, os famosos pesos, até que ele fique bom em uma tarefa deceptivamente simples: prever a próxima palavra de uma sequência. É repetindo essa previsão, token a token, que o texto final é gerado. Escalar essa tarefa para bilhões de parâmetros, porém, tem um preço concreto: milhares de GPUs de ponta rodando em paralelo por semanas, redes de altíssima largura de banda e orçamentos que somam dezenas de milhões de dólares, ou seja, território restrito a poucas organizações no planeta.</p>
+<p>Foi justamente escalando essa receita que o paper do GPT-3 (2020)<sup class="citation"><a href="#ref-9" id="citeref-9">[9]</a></sup> comprovou na prática que era possível escalar: mais parâmetros, mais dados e mais poder computacional produzem, de forma bastante previsível, um modelo melhor. Entretanto, o modelo neste estágio ainda "completava texto" de forma crua, sem instinto de ser útil ou seguro. Posteriormente, foi introduzido o processo de RLHF (Reinforcement Learning from Human Feedback, ou "aprendizado por reforço com feedback humano")<sup class="citation"><a href="#ref-10" id="citeref-10">[10]</a></sup>, que consiste em processar feedback humano para calibrar o modelo a conversar, seguir instruções e evitar respostas problemáticas. A combinação dessas duas soluções, escala e RLHF, é o que efetivamente possibilitou o Chat GPT 3.5 em novembro de 2022 ao público em geral.</p>
+<h3>Fase 1 (2022-2025): Impacto mundial e corrida das big techs</h3>
+<p>O lançamento do Chat GPT desencadeou uma corrida sem precedentes entre as gigantes de tecnologia. A Microsoft aprofundou sua parceria com a OpenAI, com um aporte multibilionário e plurianual anunciado em janeiro de 2023<sup class="citation"><a href="#ref-11" id="citeref-11">[11]</a></sup>; o Google acelerou o lançamento do seu chatbot Bard, mais tarde unificado sob a marca Gemini, em fevereiro de 2024<sup class="citation"><a href="#ref-12" id="citeref-12">[12]</a></sup>; a Meta apostou no caminho open-source com a família Llama<sup class="citation"><a href="#ref-13" id="citeref-13">[13]</a></sup>; e startups como a Anthropic (com o Claude) e a Mistral (fundada em 2023 na França, que levantou a maior rodada seed já registrada no continente europeu) ganharam força e investimento<sup class="citation"><a href="#ref-15" id="citeref-15">[15]</a></sup>. A Nvidia, fabricante das GPUs necessárias para treinar e rodar esses modelos, viu sua capitalização de mercado disparar — de pouco mais de US$ 350 bilhões no início de 2023 para a casa dos US$ 2 trilhões já em 2024<sup class="citation"><a href="#ref-16" id="citeref-16">[16]</a></sup> —, tornando-se um dos símbolos financeiros centrais dessa era.</p>
+<p>Os chips de IA também se tornaram instrumentos geopolíticos, com os Estados Unidos impondo sucessivas rodadas de controle à exportação de semicondutores avançados para a China a partir de outubro de 2022<sup class="citation"><a href="#ref-17" id="citeref-17">[17]</a></sup>. Em paralelo, ganharam força as discussões éticas e regulatórias sobre os riscos da tecnologia: em maio de 2023, um manifesto de uma única frase divulgado pelo Center for AI Safety — assinado por Dario Amodei (CEO da Anthropic), Sam Altman (CEO da OpenAI) e centenas de outros pesquisadores e executivos — alertou que mitigar o risco existencial da IA deveria ser uma prioridade global tão urgente quanto pandemias e guerras nucleares, tornando-se leitura recorrente entre legisladores americanos nos meses seguintes<sup class="citation"><a href="#ref-18" id="citeref-18">[18]</a></sup>.</p>
+<h3>Fase 2 (2025): Início da competição internacional com 'momento DeepSeek'</h3>
+<p>Em janeiro de 2025, a startup chinesa DeepSeek abalou o mercado global<sup class="citation"><a href="#ref-19" id="citeref-19">[19]</a></sup> ao lançar o modelo R1, alegando um custo de treinamento de apenas alguns milhões de dólares (dado contestado<sup class="citation"><a href="#ref-39" id="citeref-39">[39]</a></sup>), uma fração do que empresas ocidentais investiam em modelos comparáveis. O anúncio sugeriu que ganhos de eficiência arquitetural podiam ser obtidos através do aumento de escala computacional. O episódio impulsionou uma onda de modelos chineses de código aberto e baixo custo (de empresas como Alibaba, Tencent e outras), pressionando o modelo de negócio das líderes americanas<sup class="citation"><a href="#ref-20" id="citeref-20">[20]</a></sup>.</p>
+<p>Esse momento também acelerou movimentos de "soberania em IA" em outras regiões. Na Índia, o governo lançou a IndiaAI Mission, selecionando startups como a Sarvam AI e iniciativas como a BharatGen<sup class="citation"><a href="#ref-21" id="citeref-21">[21]</a></sup>. Na União Europeia, a francesa Mistral se consolidou como a principal aposta de soberania tecnológica do bloco e à preocupação com a dependência de provedores americanos e chineses<sup class="citation"><a href="#ref-22" id="citeref-22">[22]</a></sup>.</p>
+<h3>Fase 3 (2026 - Presente): Maturidade e infraestrutura</h3>
+<p>Em 2026, o mercado de LLMs amadureceu para um cenário multipolar. Nenhum modelo domina todas as tarefas<sup class="citation"><a href="#ref-23" id="citeref-23">[23]</a></sup>: famílias como GPT (OpenAI), Claude (Anthropic), Gemini (Google) e Grok (xAI) competem em nichos distintos: raciocínio, código, contexto longo, multimodalidade etc. Enquanto modelos de pesos abertos como Llama, DeepSeek V4 e Qwen se aproximam cada vez mais da fronteira de desempenho<sup class="citation"><a href="#ref-24" id="citeref-24">[24]</a></sup>.</p>
+<p>A "batalha das janelas de contexto" (hoje na casa de 1 milhão de tokens nos principais modelos) deu lugar a uma disputa por comportamento agêntico, custo por tarefa e integração com ferramentas externas<sup class="citation"><a href="#ref-25" id="citeref-25">[25]</a></sup>. Essa disputa por custo é sustentada por uma queda vertiginosa no preço da inferência: o custo por token vem caindo a taxas exponenciais desde 2024<sup class="citation"><a href="#ref-42" id="citeref-42">[42]</a></sup><sup class="citation"><a href="#ref-43" id="citeref-43">[43]</a></sup>.</p>
+<p>Ao mesmo tempo, a corrida por soberania tecnológica se consolidou como tendência estrutural, com praticamente todo país do G20 mantendo (ou buscando) sua própria iniciativa de IA soberana<sup class="citation"><a href="#ref-26" id="citeref-26">[26]</a></sup>.</p>
+<h3>Breve histórico de LLMs no Brasil (2022 - Presente)</h3>
+<p>Desde 2023, os brasileiros são considerados early adopters de IA generativa<sup class="citation"><a href="#ref-38" id="citeref-38">[38]</a></sup><sup class="citation"><a href="#ref-27" id="citeref-27">[27]</a></sup>, e a tecnologia se difundiu rapidamente por aqui, remodelando desde a rotina de trabalho até a forma como pequenas e médias empresas atendem seus clientes.</p>
+<p>Há interesse do país que dados de IA de brasileiros sejam processados dentro do país, para isso o governo tem procurado criar um ambiente favorável à investimentos relacionados a data centers através de incentivos fiscais<sup class="citation"><a href="#ref-28" id="citeref-28">[28]</a></sup>, arcabouço regulatório<sup class="citation"><a href="#ref-40" id="citeref-40">[40]</a></sup><sup class="citation"><a href="#ref-41" id="citeref-41">[41]</a></sup> e disponibilização de energia, preferenciamente renovável.</p>
+<p>Esse movimento regulatório já vem acompanhado de investimentos concretos, dois deles em destaque. A Microsoft anunciou em 2024 um aporte de R$ 14,7 bilhões<sup class="citation"><a href="#ref-29" id="citeref-29">[29]</a></sup> em infraestrutura de nuvem e IA no Brasil ao longo de três anos na região de Campinas (SP). A ByteDance (controladora do TikTok), por sua vez, anunciou seu maior data center fora da China, um complexo de R$ 200 bilhões no Porto do Pecém (CE), rodando 100% em energia eólica<sup class="citation"><a href="#ref-30" id="citeref-30">[30]</a></sup>.</p>
+<p>Do lado de modelos propriamente ditos, o Plano Brasileiro de Inteligência Artificial prevê R$ 23 bilhões em investimentos, incluindo a ampliação do supercomputador nacional Santos Dumont usando GPUs Nvidia H100<sup class="citation"><a href="#ref-31" id="citeref-31">[31]</a></sup>. No campo dos modelos de linguagem, a startup Maritaca AI (originada na Unicamp) já desenvolve a família Sabiá<sup class="citation"><a href="#ref-32" id="citeref-32">[32]</a></sup><sup class="citation"><a href="#ref-33" id="citeref-33">[33]</a></sup>, enquanto o projeto SoberanIA lançou o Soberano 1, um LLM de 30 bilhões de parâmetros treinado majoritariamente em português já em uso em serviços públicos no Piauí<sup class="citation"><a href="#ref-34" id="citeref-34">[34]</a></sup>.</p>
+<h2>Alguns produtos em destaque no mercado em 2026</h2>
+<p>Selecionamos alguns modelos ou tecnologias se baseado em percepção de mercado como rankings de benchmark, cobertura de imprensa etc.</p>
+<table>
+<thead>
+<tr>
+<th>LLM / Família</th>
+<th>Por quê (motivo de inclusão)</th>
+<th>Principal benefício</th>
+<th>Estado atual de adoção</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPT (OpenAI)</td>
+<td>Líder histórico de mercado, ecossistema Codex/API mais maduro</td>
+<td>Raciocínio estruturado e uso de computador (agentic)</td>
+<td>Muito alta — padrão de mercado em diversas verticais</td>
+</tr>
+<tr>
+<td>Claude (Anthropic)</td>
+<td>Referência em qualidade de código e confiabilidade<sup class="citation"><a href="#ref-35" id="citeref-35">[35]</a></sup></td>
+<td>Precisão em coding e workflows agênticos longos (Claude Code)</td>
+<td>Alta — forte entre times de engenharia e enterprise</td>
+</tr>
+<tr>
+<td>GoogleGemini</td>
+<td>Líder em raciocínio científico/abstrato e multimodalidade nativa</td>
+<td>Contexto extenso (1M+ tokens) e integração nativa com Google Cloud</td>
+<td>Alta — forte em produtos com vídeo/imagem</td>
+</tr>
+<tr>
+<td>Grok (xAI)</td>
+<td>Presença crescente em benchmarks de raciocínio, integração com X</td>
+<td>Velocidade de iteração e proximidade com dados em tempo real</td>
+<td>Média — nicho, crescendo</td>
+</tr>
+<tr>
+<td>Llama 4 (Meta)</td>
+<td>Principal alternativa open-weight ocidental</td>
+<td>Self-hosting, controle total de dados, custo zero de licença</td>
+<td>Alta entre quem precisa rodar on-premise</td>
+</tr>
+<tr>
+<td>DeepSeek</td>
+<td>Provou que eficiência de treinamento rivaliza com escala bruta<sup class="citation"><a href="#ref-19" id="citeref-19">[19]</a></sup><sup class="citation"><a href="#ref-36" id="citeref-36">[36]</a></sup></td>
+<td>Ótimo custo-benefício, licença permissiva (MIT)</td>
+<td>Alta — um dos open-weight mais usados do mundo</td>
+</tr>
+<tr>
+<td>Qwen (Alibaba)</td>
+<td>Base mais adaptável do ecossistema chinês, forte em código<sup class="citation"><a href="#ref-37" id="citeref-37">[37]</a></sup></td>
+<td>Multilíngue, integração nativa com Alibaba Cloud</td>
+<td>Alta na Ásia, crescendo globalmente</td>
+</tr>
+<tr>
+<td>Kimi (Moonshot AI)</td>
+<td>Especialista em contexto ultra-longo e agentes de longa duração<sup class="citation"><a href="#ref-37" id="citeref-37">[37]</a></sup></td>
+<td>Janela de contexto muito grande, bom para documentos extensos</td>
+<td>Média-alta, forte em nichos de pesquisa/legal</td>
+</tr>
+<tr>
+<td>Mistral (França/UE)</td>
+<td>Principal aposta de soberania tecnológica europeia<sup class="citation"><a href="#ref-22" id="citeref-22">[22]</a></sup></td>
+<td>Hospedagem em solo europeu, conformidade com EU AI Act</td>
+<td>Alta na Europa, especialmente setor público/regulado</td>
+</tr>
+</tbody>
+</table>
+<p><em>(Tabela ilustrativa — não exaustiva; benchmarks e posições de mercado mudam rapidamente.)</em></p>
+<h2>Conclusão</h2>
+<p>Se teve algo que 2026 deixou claro é que "o melhor modelo do mundo" parou de ser uma pergunta útil. A conversa migrou de "qual LLM é mais adequada" para "qual sistema, orquestrando qual conjunto de modelos, resolve meu problema com o menor custo e o menor risco". Isso empurra a indústria para arquiteturas de roteamento: tarefas simples vão para modelos baratos e rápidos, tarefas críticas vão para os modelos de ponta, e um orquestrador decide isso automaticamente, o valor de negócio migrou do modelo isolado para o sistema em volta dele.</p>
+<p>Do lado geopolítico, o que começou com o choque DeepSeek virou um movimento estrutural: hoje soberania em IA é linha de orçamento de governo, não bandeira política. Isso deve continuar produzindo mais opções regionais (Europa, Índia, e provavelmente outras regiões emergentes nos próximos anos), mais modelos abertos competitivos vindos da China. Para nós, que vivemos de integração, a lição prática é não apostar fichas demais em um único fornecedor, a "melhor" API de hoje pode não ser a mais competitiva daqui a seis meses.</p>
+<h2>Referências</h2>
+<ol class="references">
+<li id="ref-1"><a href="#citeref-1" class="ref-backlink" aria-label="Voltar à citação 1">↑</a> Wayback Machine — <a href="https://web.archive.org/web/20221130190543/https://openai.com/blog/chatgpt/">Open AI - Landing page histórica do lançamento do Chat GPT para o público (2022)</a></li>
+<li id="ref-2"><a href="#citeref-2" class="ref-backlink" aria-label="Voltar à citação 2">↑</a> VentureBeat — <a href="https://venturebeat.com/technology/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat">ChatGPT launched six months ago</a></li>
+<li id="ref-3"><a href="#citeref-3" class="ref-backlink" aria-label="Voltar à citação 3">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Artificial_neuron">McCulloch–Pitts neuron</a></li>
+<li id="ref-4"><a href="#citeref-4" class="ref-backlink" aria-label="Voltar à citação 4">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Perceptron">Perceptron (Rosenblatt, 1958)</a></li>
+<li id="ref-5"><a href="#citeref-5" class="ref-backlink" aria-label="Voltar à citação 5">↑</a> IBM — <a href="https://www.ibm.com/topics/neural-networks">Neural networks</a></li>
+<li id="ref-6"><a href="#citeref-6" class="ref-backlink" aria-label="Voltar à citação 6">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Long_short-term_memory">Long short-term memory (Hochreiter &#x26; Schmidhuber, 1997)</a></li>
+<li id="ref-7"><a href="#citeref-7" class="ref-backlink" aria-label="Voltar à citação 7">↑</a> arXiv — <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Vaswani et al., 2017)</a></li>
+<li id="ref-8"><a href="#citeref-8" class="ref-backlink" aria-label="Voltar à citação 8">↑</a> NVIDIA Blog — <a href="https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai">Why GPUs Are Great for AI</a></li>
+<li id="ref-9"><a href="#citeref-9" class="ref-backlink" aria-label="Voltar à citação 9">↑</a> arXiv — <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners / GPT-3 (Brown et al., 2020)</a></li>
+<li id="ref-10"><a href="#citeref-10" class="ref-backlink" aria-label="Voltar à citação 10">↑</a> arXiv — <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback / InstructGPT (Ouyang et al., 2022)</a></li>
+<li id="ref-11"><a href="#citeref-11" class="ref-backlink" aria-label="Voltar à citação 11">↑</a> Official Microsoft Blog — <a href="https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/">Microsoft and OpenAI extend partnership</a></li>
+<li id="ref-12"><a href="#citeref-12" class="ref-backlink" aria-label="Voltar à citação 12">↑</a> InfoQ — <a href="https://www.infoq.com/news/2024/02/google-bard-gemini">Google Renames Bard to Gemini</a></li>
+<li id="ref-13"><a href="#citeref-13" class="ref-backlink" aria-label="Voltar à citação 13">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Llama_(language_model)">Llama (language model)</a></li>
+<li id="ref-14"><a href="#citeref-14" class="ref-backlink" aria-label="Voltar à citação 14">↑</a> Outlook Business — <a href="https://www.outlookbusiness.com/amp/story/corporate/anthropic-surpasses-openai-with-965-bn-valuation-after-latest-fundraise">Anthropic Surpasses OpenAI With $965 Bn Valuation After Latest Fundraise</a></li>
+<li id="ref-15"><a href="#citeref-15" class="ref-backlink" aria-label="Voltar à citação 15">↑</a> Fortune — <a href="https://fortune.com/2023/06/14/mistral-ai-startup-record-113-million-seed-round-arthur-mensch">A.I. company raises record $113 million just a month after being founded</a></li>
+<li id="ref-16"><a href="#citeref-16" class="ref-backlink" aria-label="Voltar à citação 16">↑</a> Business Today Malaysia — <a href="https://www.businesstoday.com.my/2024/03/02/ai-boom-makes-nvidia-third-u-s-stock-to-close-above-us2-trillion-valuation/">AI boom makes Nvidia third U.S. stock to close above US$2 trillion valuation</a></li>
+<li id="ref-17"><a href="#citeref-17" class="ref-backlink" aria-label="Voltar à citação 17">↑</a> Bureau of Industry and Security (U.S. Department of Commerce) — <a href="https://www.bis.gov/press-release/commerce-implements-new-export-controls-advanced-computing-semiconductor-manufacturing-items-peoples">Commerce Implements New Export Controls on Advanced Computing and Semiconductor Manufacturing Items to the People's Republic of China</a></li>
+<li id="ref-18"><a href="#citeref-18" class="ref-backlink" aria-label="Voltar à citação 18">↑</a> Center for AI Safety — <a href="https://www.safe.ai/statement-on-ai-risk">Statement on AI Risk</a></li>
+<li id="ref-19"><a href="#citeref-19" class="ref-backlink" aria-label="Voltar à citação 19">↑</a> Startups.com.br — <a href="https://startups.com.br/negocios/inteligencia-artificial/deepseek-o-que-aconteceu-com-a-chinesa-que-abalou-o-vale-do-silicio/">DeepSeek: o que aconteceu com a chinesa que abalou o Vale do Silício</a></li>
+<li id="ref-20"><a href="#citeref-20" class="ref-backlink" aria-label="Voltar à citação 20">↑</a> Times Brasil (licenciado CNBC) — <a href="https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/a-deepseek-abalou-os-mercados-ha-um-ano-por-que-esse-impacto-ficou-para-tras/">A DeepSeek abalou os mercados há um ano. Por que esse impacto ficou para trás?</a></li>
+<li id="ref-21"><a href="#citeref-21" class="ref-backlink" aria-label="Voltar à citação 21">↑</a> ETV Bharat — <a href="https://www.etvbharat.com/en/technology/sarvam-ai-and-bharatgen-unveil-their-latest-ai-models-at-the-india-ai-impact-summit-2026-enn26022006144">Sarvam AI And BharatGen Unveil Their Latest AI Models At The India AI Impact Summit 2026</a></li>
+<li id="ref-22"><a href="#citeref-22" class="ref-backlink" aria-label="Voltar à citação 22">↑</a> Fortune — <a href="https://fortune.com/2026/08/05/mistral-europe-ai-sovereignty-us-openai-anthropic-google-deepmind/">Europe's AI sovereignty is under threat. Could Mistral be the answer?</a></li>
+<li id="ref-23"><a href="#citeref-23" class="ref-backlink" aria-label="Voltar à citação 23">↑</a> Vontobel — <a href="https://am.vontobel.com/de/insights/2026-large-language-models-outlook">2026 Large Language Models Outlook</a></li>
+<li id="ref-24"><a href="#citeref-24" class="ref-backlink" aria-label="Voltar à citação 24">↑</a> Iternal.ai — <a href="https://iternal.ai/llm-selection-guide">LLM Comparison 2026: 30+ AI Models Benchmarked &#x26; Ranked</a></li>
+<li id="ref-25"><a href="#citeref-25" class="ref-backlink" aria-label="Voltar à citação 25">↑</a> Barchart / Belitsoft — <a href="https://www.barchart.com/story/news/1163379/belitsoft-report-2026-ai-agent-trends-enterprises-run-12-ai-agents-on-average-but-half-work-alone">Report: 2026 AI Agent Trends — Enterprises Run 12 AI Agents on Average, But Half Work Alone</a></li>
+<li id="ref-26"><a href="#citeref-26" class="ref-backlink" aria-label="Voltar à citação 26">↑</a> Stanford HAI — <a href="https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_8_policy_and_governance.pdf">AI Index Report 2026, Chapter 8: Policy and Governance</a></li>
+<li id="ref-27"><a href="#citeref-27" class="ref-backlink" aria-label="Voltar à citação 27">↑</a> OpenAI — <a href="https://openai.com/global-affairs/brazil-ai-moment-is-here">Brazil's AI moment is here</a></li>
+<li id="ref-28"><a href="#citeref-28" class="ref-backlink" aria-label="Voltar à citação 28">↑</a> Movimento Econômico — <a href="https://movimentoeconomico.com.br/tecnologia/2026/09/02/senado-aprova-projeto-que-incentiva-data-centers-com-isencao-de-tributos/">Senado aprova projeto que incentiva data centers com isenção de tributos</a></li>
+<li id="ref-29"><a href="#citeref-29" class="ref-backlink" aria-label="Voltar à citação 29">↑</a> Microsoft News Center Brasil — <a href="https://news.microsoft.com/pt-br/microsoft-anuncia-investimento-de-r-147-bilhoes-ao-longo-de-tres-anos-em-infraestrutura-de-nuvem-e-ia-e-oferece-treinamento-em-ia-em-larga-escala-para-capacitar-5-milhoes-de-pessoas-no-brasil/">Microsoft anuncia investimento de R$ 14,7 bilhões em infraestrutura de nuvem e IA no Brasil</a></li>
+<li id="ref-30"><a href="#citeref-30" class="ref-backlink" aria-label="Voltar à citação 30">↑</a> Bloomberg Línea — <a href="https://www.bloomberglinea.com.br/tech/dona-do-tiktok-escolhe-o-brasil-para-seu-maior-complexo-de-data-centers-fora-da-china/">Dona do TikTok escolhe o Brasil para seu maior complexo de data centers fora da China</a></li>
+<li id="ref-31"><a href="#citeref-31" class="ref-backlink" aria-label="Voltar à citação 31">↑</a> Blog da NVIDIA — <a href="https://blog.nvidia.com.br/blog/santos-dumont-supercomputador-do-lncc-recebe-ampliacao-quatro-vezes-maior-como-primeiro-passo-do-plano-brasileiro-de-inteligencia-artificial/">Santos Dumont recebe ampliação quatro vezes maior como primeiro passo do PBIA</a></li>
+<li id="ref-32"><a href="#citeref-32" class="ref-backlink" aria-label="Voltar à citação 32">↑</a> Advoco Brasil — <a href="https://advocobrasil.com.br/ia-brasil-pbia-analise-critica-regulacao-2026/">IA no Brasil: R$ 23 bilhões em promessas, zero linhas de código na regulação</a></li>
+<li id="ref-33"><a href="#citeref-33" class="ref-backlink" aria-label="Voltar à citação 33">↑</a> arXiv — <a href="https://arxiv.org/html/2603.10213v1">Sabiá-4 Technical Report (Laitz et al., 2026)</a></li>
+<li id="ref-34"><a href="#citeref-34" class="ref-backlink" aria-label="Voltar à citação 34">↑</a> Inforchannel — <a href="https://inforchannel.com.br/2026/05/20/soberania-lanca-ecossistema-brasileiro-de-solucoes-de-ia/">SoberanIA lança ecossistema brasileiro de IA voltado para o setor público</a></li>
+<li id="ref-35"><a href="#citeref-35" class="ref-backlink" aria-label="Voltar à citação 35">↑</a> BenchLM.ai — <a href="https://www.benchlm.ai/benchmarks/swePro">SWE-bench Pro Leaderboard — Top AI Models for Coding</a></li>
+<li id="ref-36"><a href="#citeref-36" class="ref-backlink" aria-label="Voltar à citação 36">↑</a> Forbes México — <a href="https://forbes.mx/un-ano-despues-del-impacto-de-deepseek-habra-una-avalancha-de-modelos-chinos-de-inteligencia-artificial-de-bajo-costo/">Un año después del impacto de DeepSeek</a></li>
+<li id="ref-37"><a href="#citeref-37" class="ref-backlink" aria-label="Voltar à citação 37">↑</a> Turing Post — <a href="https://www.turingpost.com/p/llms-in-china">Chinese LLMs in 2026: DeepSeek, Qwen, Kimi K3</a></li>
+<li id="ref-38"><a href="#citeref-38" class="ref-backlink" aria-label="Voltar à citação 38">↑</a> Startups.com.br (dados Bain &#x26; Company) — <a href="https://startups.com.br/negocios/inteligencia-artificial/brasil-supera-eua-no-uso-de-ia-e-aponta-para-proxima-ruptura-no-varejo-digital/">Brasil supera EUA no uso de IA e aponta para próxima ruptura no varejo digital</a></li>
+<li id="ref-39"><a href="#citeref-39" class="ref-backlink" aria-label="Voltar à citação 39">↑</a> TechSpot (citando análise da SemiAnalysis) — <a href="https://www.techspot.com/news/109542-rare-disclosure-deepseek-claims-r1-model-training-cost.html">Rare disclosure: DeepSeek claims R1 model training cost</a></li>
+<li id="ref-40"><a href="#citeref-40" class="ref-backlink" aria-label="Voltar à citação 40">↑</a> Senado Federal — <a href="https://www25.senado.leg.br/web/atividade/materias/-/materia/157233">Projeto de Lei nº 2.338, de 2023 (Marco Legal da Inteligência Artificial) — tramitação oficial</a></li>
+<li id="ref-41"><a href="#citeref-41" class="ref-backlink" aria-label="Voltar à citação 41">↑</a> Barbieri Advogados — <a href="https://www.barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil/">Regulamentação da Inteligência Artificial no Brasil: estado atual e perspectivas</a></li>
+<li id="ref-42"><a href="#citeref-42" class="ref-backlink" aria-label="Voltar à citação 42">↑</a> Epoch AI (via análise da N47) — <a href="https://www.n47.com/insights/the-ai-price-collapse-has-only-just-begun">The AI price collapse has only just begun</a></li>
+<li id="ref-43"><a href="#citeref-43" class="ref-backlink" aria-label="Voltar à citação 43">↑</a> arXiv — <a href="https://arxiv.org/html/2603.28576v1">Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in LLM Inference Services (Du, 2026)</a></li>
+</ol>
+7:["$","section",null,{"className":"pb-20 md:pb-28 lg:pb-32","children":[["$","div",null,{"className":"container px-4 mx-auto","children":["$","article",null,{"className":"mx-auto max-w-[700px]","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","$L12",null,{"href":"/blog","className":"text-sm text-body-color hover:text-primary","children":"← Voltar para o blog"}],["$","$L13",null,{}]]}],["$","h1",null,{"className":"mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl","children":"Breve estudo sobre Large Language Models (LLMs)"}],["$","p",null,{"className":"mb-6 text-lg text-body-color","children":"Um estudo exploratório sobre a evolução histórica dos LLMs e o cenário atual do mercado"}],["$","div",null,{"className":"mb-8","children":["$","div",null,{"className":"flex items-center gap-2 text-sm text-body-color","children":[["$","span",null,{"className":"flex h-8 w-8 text-xs shrink-0 items-center justify-center rounded-full bg-gray-2 font-semibold text-body-color dark:bg-dark-2 dark:text-white","children":"LB"}],["$","span",null,{"className":"font-medium text-black dark:text-white","children":"Leonardo Borges"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[14," min de leitura"]}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"31 de agosto de 2026"}]]}]}],["$","div",null,{"className":"mb-8 flex flex-wrap gap-2","children":[["$","span","llm",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"llm"}],["$","span","inteligencia-artificial",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"inteligencia-artificial"}],["$","span","pesquisa",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"pesquisa"}],["$","span","mercado",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"mercado"}],["$","span","brasil",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"brasil"}]]}],["$","$L14",null,{"contentHtml":"$15","className":"__className_212395 prose max-w-none text-[1.3rem] leading-[1.6] dark:prose-invert prose-a:text-primary prose-headings:font-bold prose-h2:text-[1.55rem] prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:text-[1.15em]"}]]}]}],"$L16"]}]
+17:I[3999,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c495b3f85ed80416.js"],"default"]
+18:T76b5,<p>Embora pesquisas com modelos de linguagem e redes neurais generativas existissem há anos no meio acadêmico, foi somente em novembro de 2022 com a disponibilização do Chat GPT 3.5<sup class="citation"><a href="#ref-1" id="citeref-1">[1]</a></sup> para o público que a IA generativa começou a se popularizar e impactar de forma irreversível o mundo todo<sup class="citation"><a href="#ref-2" id="citeref-2">[2]</a></sup>.</p>
+<p>Desde então profissionais de tecnologia têm procurado se adaptar a esta nova realidade e nós não somos exceção. Large Language Models (LLMs), como o Chat GPT, são tecnicamente complexos e exigem grande investimento em pesquisa, desenvolvimento e infraestrutura. Por conta disso, na AXGenesis temos focado em realizar integrações de sistemas com as APIs de LLMs já existentes, além de procurar tirar o melhor proveito dessa tecnologia para ganho de produtividade no dia-a-dia.</p>
+<p>Ainda que nosso foco continue em integrações e que a "mecânica" interna das LLMs não seja nossa expertise, achamos oportuno realizar este estudo <strong>de forma exploratória</strong> a fim de consolidar e resumir sistematicamente o nosso conhecimento sobre o assunto, até porque muita novidade vem acontecendo e é sempre bom revisitar os conceitos e fundamentos do que integramos.</p>
+<h2>Metodologia</h2>
+<p>O estudo consiste em redações sobre determinados tópicos, fundamentadas com informações públicas e disponíveis na Internet, seguindo a seguinte estrutura:</p>
+<ul>
+<li>Resumo da evolução histórica da tecnologia</li>
+<li>Histórico de algumas iniciativas relacionadas a LLMs no Brasil</li>
+<li>Listagem de alguns LLMs em destaque em 2026</li>
+<li>Conclusão</li>
+</ul>
+<p>LLMs de diferentes fornecedores foram utilizados como ferramentas de apoio a fim de melhorar a qualidade do artigo, enquanto estrutura, decisões textuais e supervisão são humanas.</p>
+<blockquote>
+<p>Este artigo é um estudo interno, não exaustivo e poderá ser atualizado a qualquer momento na medida em que o mercado ou o nosso conhecimento sobre o assunto evolua.</p>
+</blockquote>
+<h2>Evolução histórica resumida da tecnologia</h2>
+<p>A evolução histórica aqui apresentada se divide em quatro fases, definidas assim por critério pessoal com fins estritamente didáticos. Há ainda um quinto tópico, destinado a mapear iniciativas relacionadas a LLMs no Brasil.</p>
+<h3>Fase 0 (pré-2022): Laboratório e precursores tecnológicos do Chat GPT 3.5</h3>
+<p>Muito antes do Chat GPT, a pergunta que move a inteligência artificial já rondava laboratórios acadêmicos: seria possível construir uma máquina que "pensa"? As primeiras respostas concretas, inspiradas na biologia, vieram nas décadas de 40 e 50 com modelos matemáticos simples de neurônios artificiais<sup class="citation"><a href="#ref-3" id="citeref-3">[3]</a></sup><sup class="citation"><a href="#ref-4" id="citeref-4">[4]</a></sup>, base do que hoje chamamos de redes neurais, sistemas organizados em camadas que aprendem padrões a partir de dados (geralmente enormes quantidades), ajustando pesos internos por meio de um processo chamado treinamento<sup class="citation"><a href="#ref-5" id="citeref-5">[5]</a></sup>.</p>
+<p>O campo da Computação dedicado a ensinar máquinas a lidar com texto, o Processamento de Linguagem Natural (PLN), por muito tempo a abordagem dominante foram as Redes Neurais Recorrentes (RNNs) e, posteriormente, as LSTMs (Long Short-Term Memory)<sup class="citation"><a href="#ref-6" id="citeref-6">[6]</a></sup>. Essas arquiteturas processavam o texto de forma estritamente sequencial, se degradava rapidamente em textos longos e o processamento sequencial impedia qualquer paralelização real no treinamento.</p>
+<p>O grande salto paradigmático aconteceu em 2017, quando o paper "Attention Is All You Need"<sup class="citation"><a href="#ref-7" id="citeref-7">[7]</a></sup> propôs abandonar a leitura sequencial em favor de uma ideia mais radical: e se o modelo pudesse olhar a frase inteira de uma vez? O mecanismo de <em>self-attention</em>, coração da arquitetura Transformer<sup class="citation"><a href="#ref-7" id="citeref-7">[7]</a></sup>, faz exatamente isso: calcula, para cada palavra, o quanto ela se relaciona com todas as outras da sequência, capturando contexto de longo alcance sem o gargalo da sequencialidade, abrindo caminho para o treinamento paralelo em GPUs — processadores originalmente projetados para renderizar gráficos, mas que se tornaram essenciais para IA por conseguirem executar milhares de operações matemáticas simultaneamente, em vez de uma de cada vez como uma CPU tradicional<sup class="citation"><a href="#ref-8" id="citeref-8">[8]</a></sup>.</p>
+<p>"Treinar" um desses modelos nada mais é do que expô-lo a bilhões de páginas de texto e ajustar, passo a passo, seus parâmetros internos, os famosos pesos, até que ele fique bom em uma tarefa deceptivamente simples: prever a próxima palavra de uma sequência. É repetindo essa previsão, token a token, que o texto final é gerado. Escalar essa tarefa para bilhões de parâmetros, porém, tem um preço concreto: milhares de GPUs de ponta rodando em paralelo por semanas, redes de altíssima largura de banda e orçamentos que somam dezenas de milhões de dólares, ou seja, território restrito a poucas organizações no planeta.</p>
+<p>Foi justamente escalando essa receita que o paper do GPT-3 (2020)<sup class="citation"><a href="#ref-9" id="citeref-9">[9]</a></sup> comprovou na prática que era possível escalar: mais parâmetros, mais dados e mais poder computacional produzem, de forma bastante previsível, um modelo melhor. Entretanto, o modelo neste estágio ainda "completava texto" de forma crua, sem instinto de ser útil ou seguro. Posteriormente, foi introduzido o processo de RLHF (Reinforcement Learning from Human Feedback, ou "aprendizado por reforço com feedback humano")<sup class="citation"><a href="#ref-10" id="citeref-10">[10]</a></sup>, que consiste em processar feedback humano para calibrar o modelo a conversar, seguir instruções e evitar respostas problemáticas. A combinação dessas duas soluções, escala e RLHF, é o que efetivamente possibilitou o Chat GPT 3.5 em novembro de 2022 ao público em geral.</p>
+<h3>Fase 1 (2022-2025): Impacto mundial e corrida das big techs</h3>
+<p>O lançamento do Chat GPT desencadeou uma corrida sem precedentes entre as gigantes de tecnologia. A Microsoft aprofundou sua parceria com a OpenAI, com um aporte multibilionário e plurianual anunciado em janeiro de 2023<sup class="citation"><a href="#ref-11" id="citeref-11">[11]</a></sup>; o Google acelerou o lançamento do seu chatbot Bard, mais tarde unificado sob a marca Gemini, em fevereiro de 2024<sup class="citation"><a href="#ref-12" id="citeref-12">[12]</a></sup>; a Meta apostou no caminho open-source com a família Llama<sup class="citation"><a href="#ref-13" id="citeref-13">[13]</a></sup>; e startups como a Anthropic (com o Claude) e a Mistral (fundada em 2023 na França, que levantou a maior rodada seed já registrada no continente europeu) ganharam força e investimento<sup class="citation"><a href="#ref-15" id="citeref-15">[15]</a></sup>. A Nvidia, fabricante das GPUs necessárias para treinar e rodar esses modelos, viu sua capitalização de mercado disparar — de pouco mais de US$ 350 bilhões no início de 2023 para a casa dos US$ 2 trilhões já em 2024<sup class="citation"><a href="#ref-16" id="citeref-16">[16]</a></sup> —, tornando-se um dos símbolos financeiros centrais dessa era.</p>
+<p>Os chips de IA também se tornaram instrumentos geopolíticos, com os Estados Unidos impondo sucessivas rodadas de controle à exportação de semicondutores avançados para a China a partir de outubro de 2022<sup class="citation"><a href="#ref-17" id="citeref-17">[17]</a></sup>. Em paralelo, ganharam força as discussões éticas e regulatórias sobre os riscos da tecnologia: em maio de 2023, um manifesto de uma única frase divulgado pelo Center for AI Safety — assinado por Dario Amodei (CEO da Anthropic), Sam Altman (CEO da OpenAI) e centenas de outros pesquisadores e executivos — alertou que mitigar o risco existencial da IA deveria ser uma prioridade global tão urgente quanto pandemias e guerras nucleares, tornando-se leitura recorrente entre legisladores americanos nos meses seguintes<sup class="citation"><a href="#ref-18" id="citeref-18">[18]</a></sup>.</p>
+<h3>Fase 2 (2025): Início da competição internacional com 'momento DeepSeek'</h3>
+<p>Em janeiro de 2025, a startup chinesa DeepSeek abalou o mercado global<sup class="citation"><a href="#ref-19" id="citeref-19">[19]</a></sup> ao lançar o modelo R1, alegando um custo de treinamento de apenas alguns milhões de dólares (dado contestado<sup class="citation"><a href="#ref-39" id="citeref-39">[39]</a></sup>), uma fração do que empresas ocidentais investiam em modelos comparáveis. O anúncio sugeriu que ganhos de eficiência arquitetural podiam ser obtidos através do aumento de escala computacional. O episódio impulsionou uma onda de modelos chineses de código aberto e baixo custo (de empresas como Alibaba, Tencent e outras), pressionando o modelo de negócio das líderes americanas<sup class="citation"><a href="#ref-20" id="citeref-20">[20]</a></sup>.</p>
+<p>Esse momento também acelerou movimentos de "soberania em IA" em outras regiões. Na Índia, o governo lançou a IndiaAI Mission, selecionando startups como a Sarvam AI e iniciativas como a BharatGen<sup class="citation"><a href="#ref-21" id="citeref-21">[21]</a></sup>. Na União Europeia, a francesa Mistral se consolidou como a principal aposta de soberania tecnológica do bloco e à preocupação com a dependência de provedores americanos e chineses<sup class="citation"><a href="#ref-22" id="citeref-22">[22]</a></sup>.</p>
+<h3>Fase 3 (2026 - Presente): Maturidade e infraestrutura</h3>
+<p>Em 2026, o mercado de LLMs amadureceu para um cenário multipolar. Nenhum modelo domina todas as tarefas<sup class="citation"><a href="#ref-23" id="citeref-23">[23]</a></sup>: famílias como GPT (OpenAI), Claude (Anthropic), Gemini (Google) e Grok (xAI) competem em nichos distintos: raciocínio, código, contexto longo, multimodalidade etc. Enquanto modelos de pesos abertos como Llama, DeepSeek V4 e Qwen se aproximam cada vez mais da fronteira de desempenho<sup class="citation"><a href="#ref-24" id="citeref-24">[24]</a></sup>.</p>
+<p>A "batalha das janelas de contexto" (hoje na casa de 1 milhão de tokens nos principais modelos) deu lugar a uma disputa por comportamento agêntico, custo por tarefa e integração com ferramentas externas<sup class="citation"><a href="#ref-25" id="citeref-25">[25]</a></sup>. Essa disputa por custo é sustentada por uma queda vertiginosa no preço da inferência: o custo por token vem caindo a taxas exponenciais desde 2024<sup class="citation"><a href="#ref-42" id="citeref-42">[42]</a></sup><sup class="citation"><a href="#ref-43" id="citeref-43">[43]</a></sup>.</p>
+<p>Ao mesmo tempo, a corrida por soberania tecnológica se consolidou como tendência estrutural, com praticamente todo país do G20 mantendo (ou buscando) sua própria iniciativa de IA soberana<sup class="citation"><a href="#ref-26" id="citeref-26">[26]</a></sup>.</p>
+<h3>Breve histórico de LLMs no Brasil (2022 - Presente)</h3>
+<p>Desde 2023, os brasileiros são considerados early adopters de IA generativa<sup class="citation"><a href="#ref-38" id="citeref-38">[38]</a></sup><sup class="citation"><a href="#ref-27" id="citeref-27">[27]</a></sup>, e a tecnologia se difundiu rapidamente por aqui, remodelando desde a rotina de trabalho até a forma como pequenas e médias empresas atendem seus clientes.</p>
+<p>Há interesse do país que dados de IA de brasileiros sejam processados dentro do país, para isso o governo tem procurado criar um ambiente favorável à investimentos relacionados a data centers através de incentivos fiscais<sup class="citation"><a href="#ref-28" id="citeref-28">[28]</a></sup>, arcabouço regulatório<sup class="citation"><a href="#ref-40" id="citeref-40">[40]</a></sup><sup class="citation"><a href="#ref-41" id="citeref-41">[41]</a></sup> e disponibilização de energia, preferenciamente renovável.</p>
+<p>Esse movimento regulatório já vem acompanhado de investimentos concretos, dois deles em destaque. A Microsoft anunciou em 2024 um aporte de R$ 14,7 bilhões<sup class="citation"><a href="#ref-29" id="citeref-29">[29]</a></sup> em infraestrutura de nuvem e IA no Brasil ao longo de três anos na região de Campinas (SP). A ByteDance (controladora do TikTok), por sua vez, anunciou seu maior data center fora da China, um complexo de R$ 200 bilhões no Porto do Pecém (CE), rodando 100% em energia eólica<sup class="citation"><a href="#ref-30" id="citeref-30">[30]</a></sup>.</p>
+<p>Do lado de modelos propriamente ditos, o Plano Brasileiro de Inteligência Artificial prevê R$ 23 bilhões em investimentos, incluindo a ampliação do supercomputador nacional Santos Dumont usando GPUs Nvidia H100<sup class="citation"><a href="#ref-31" id="citeref-31">[31]</a></sup>. No campo dos modelos de linguagem, a startup Maritaca AI (originada na Unicamp) já desenvolve a família Sabiá<sup class="citation"><a href="#ref-32" id="citeref-32">[32]</a></sup><sup class="citation"><a href="#ref-33" id="citeref-33">[33]</a></sup>, enquanto o projeto SoberanIA lançou o Soberano 1, um LLM de 30 bilhões de parâmetros treinado majoritariamente em português já em uso em serviços públicos no Piauí<sup class="citation"><a href="#ref-34" id="citeref-34">[34]</a></sup>.</p>
+<h2>Alguns produtos em destaque no mercado em 2026</h2>
+<p>Selecionamos alguns modelos ou tecnologias se baseado em percepção de mercado como rankings de benchmark, cobertura de imprensa etc.</p>
+<table>
+<thead>
+<tr>
+<th>LLM / Família</th>
+<th>Por quê (motivo de inclusão)</th>
+<th>Principal benefício</th>
+<th>Estado atual de adoção</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPT (OpenAI)</td>
+<td>Líder histórico de mercado, ecossistema Codex/API mais maduro</td>
+<td>Raciocínio estruturado e uso de computador (agentic)</td>
+<td>Muito alta — padrão de mercado em diversas verticais</td>
+</tr>
+<tr>
+<td>Claude (Anthropic)</td>
+<td>Referência em qualidade de código e confiabilidade<sup class="citation"><a href="#ref-35" id="citeref-35">[35]</a></sup></td>
+<td>Precisão em coding e workflows agênticos longos (Claude Code)</td>
+<td>Alta — forte entre times de engenharia e enterprise</td>
+</tr>
+<tr>
+<td>GoogleGemini</td>
+<td>Líder em raciocínio científico/abstrato e multimodalidade nativa</td>
+<td>Contexto extenso (1M+ tokens) e integração nativa com Google Cloud</td>
+<td>Alta — forte em produtos com vídeo/imagem</td>
+</tr>
+<tr>
+<td>Grok (xAI)</td>
+<td>Presença crescente em benchmarks de raciocínio, integração com X</td>
+<td>Velocidade de iteração e proximidade com dados em tempo real</td>
+<td>Média — nicho, crescendo</td>
+</tr>
+<tr>
+<td>Llama 4 (Meta)</td>
+<td>Principal alternativa open-weight ocidental</td>
+<td>Self-hosting, controle total de dados, custo zero de licença</td>
+<td>Alta entre quem precisa rodar on-premise</td>
+</tr>
+<tr>
+<td>DeepSeek</td>
+<td>Provou que eficiência de treinamento rivaliza com escala bruta<sup class="citation"><a href="#ref-19" id="citeref-19">[19]</a></sup><sup class="citation"><a href="#ref-36" id="citeref-36">[36]</a></sup></td>
+<td>Ótimo custo-benefício, licença permissiva (MIT)</td>
+<td>Alta — um dos open-weight mais usados do mundo</td>
+</tr>
+<tr>
+<td>Qwen (Alibaba)</td>
+<td>Base mais adaptável do ecossistema chinês, forte em código<sup class="citation"><a href="#ref-37" id="citeref-37">[37]</a></sup></td>
+<td>Multilíngue, integração nativa com Alibaba Cloud</td>
+<td>Alta na Ásia, crescendo globalmente</td>
+</tr>
+<tr>
+<td>Kimi (Moonshot AI)</td>
+<td>Especialista em contexto ultra-longo e agentes de longa duração<sup class="citation"><a href="#ref-37" id="citeref-37">[37]</a></sup></td>
+<td>Janela de contexto muito grande, bom para documentos extensos</td>
+<td>Média-alta, forte em nichos de pesquisa/legal</td>
+</tr>
+<tr>
+<td>Mistral (França/UE)</td>
+<td>Principal aposta de soberania tecnológica europeia<sup class="citation"><a href="#ref-22" id="citeref-22">[22]</a></sup></td>
+<td>Hospedagem em solo europeu, conformidade com EU AI Act</td>
+<td>Alta na Europa, especialmente setor público/regulado</td>
+</tr>
+</tbody>
+</table>
+<p><em>(Tabela ilustrativa — não exaustiva; benchmarks e posições de mercado mudam rapidamente.)</em></p>
+<h2>Conclusão</h2>
+<p>Se teve algo que 2026 deixou claro é que "o melhor modelo do mundo" parou de ser uma pergunta útil. A conversa migrou de "qual LLM é mais adequada" para "qual sistema, orquestrando qual conjunto de modelos, resolve meu problema com o menor custo e o menor risco". Isso empurra a indústria para arquiteturas de roteamento: tarefas simples vão para modelos baratos e rápidos, tarefas críticas vão para os modelos de ponta, e um orquestrador decide isso automaticamente, o valor de negócio migrou do modelo isolado para o sistema em volta dele.</p>
+<p>Do lado geopolítico, o que começou com o choque DeepSeek virou um movimento estrutural: hoje soberania em IA é linha de orçamento de governo, não bandeira política. Isso deve continuar produzindo mais opções regionais (Europa, Índia, e provavelmente outras regiões emergentes nos próximos anos), mais modelos abertos competitivos vindos da China. Para nós, que vivemos de integração, a lição prática é não apostar fichas demais em um único fornecedor, a "melhor" API de hoje pode não ser a mais competitiva daqui a seis meses.</p>
+<h2>Referências</h2>
+<ol class="references">
+<li id="ref-1"><a href="#citeref-1" class="ref-backlink" aria-label="Voltar à citação 1">↑</a> Wayback Machine — <a href="https://web.archive.org/web/20221130190543/https://openai.com/blog/chatgpt/">Open AI - Landing page histórica do lançamento do Chat GPT para o público (2022)</a></li>
+<li id="ref-2"><a href="#citeref-2" class="ref-backlink" aria-label="Voltar à citação 2">↑</a> VentureBeat — <a href="https://venturebeat.com/technology/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat">ChatGPT launched six months ago</a></li>
+<li id="ref-3"><a href="#citeref-3" class="ref-backlink" aria-label="Voltar à citação 3">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Artificial_neuron">McCulloch–Pitts neuron</a></li>
+<li id="ref-4"><a href="#citeref-4" class="ref-backlink" aria-label="Voltar à citação 4">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Perceptron">Perceptron (Rosenblatt, 1958)</a></li>
+<li id="ref-5"><a href="#citeref-5" class="ref-backlink" aria-label="Voltar à citação 5">↑</a> IBM — <a href="https://www.ibm.com/topics/neural-networks">Neural networks</a></li>
+<li id="ref-6"><a href="#citeref-6" class="ref-backlink" aria-label="Voltar à citação 6">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Long_short-term_memory">Long short-term memory (Hochreiter &#x26; Schmidhuber, 1997)</a></li>
+<li id="ref-7"><a href="#citeref-7" class="ref-backlink" aria-label="Voltar à citação 7">↑</a> arXiv — <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Vaswani et al., 2017)</a></li>
+<li id="ref-8"><a href="#citeref-8" class="ref-backlink" aria-label="Voltar à citação 8">↑</a> NVIDIA Blog — <a href="https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai">Why GPUs Are Great for AI</a></li>
+<li id="ref-9"><a href="#citeref-9" class="ref-backlink" aria-label="Voltar à citação 9">↑</a> arXiv — <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners / GPT-3 (Brown et al., 2020)</a></li>
+<li id="ref-10"><a href="#citeref-10" class="ref-backlink" aria-label="Voltar à citação 10">↑</a> arXiv — <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback / InstructGPT (Ouyang et al., 2022)</a></li>
+<li id="ref-11"><a href="#citeref-11" class="ref-backlink" aria-label="Voltar à citação 11">↑</a> Official Microsoft Blog — <a href="https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/">Microsoft and OpenAI extend partnership</a></li>
+<li id="ref-12"><a href="#citeref-12" class="ref-backlink" aria-label="Voltar à citação 12">↑</a> InfoQ — <a href="https://www.infoq.com/news/2024/02/google-bard-gemini">Google Renames Bard to Gemini</a></li>
+<li id="ref-13"><a href="#citeref-13" class="ref-backlink" aria-label="Voltar à citação 13">↑</a> Wikipedia — <a href="https://en.wikipedia.org/wiki/Llama_(language_model)">Llama (language model)</a></li>
+<li id="ref-14"><a href="#citeref-14" class="ref-backlink" aria-label="Voltar à citação 14">↑</a> Outlook Business — <a href="https://www.outlookbusiness.com/amp/story/corporate/anthropic-surpasses-openai-with-965-bn-valuation-after-latest-fundraise">Anthropic Surpasses OpenAI With $965 Bn Valuation After Latest Fundraise</a></li>
+<li id="ref-15"><a href="#citeref-15" class="ref-backlink" aria-label="Voltar à citação 15">↑</a> Fortune — <a href="https://fortune.com/2023/06/14/mistral-ai-startup-record-113-million-seed-round-arthur-mensch">A.I. company raises record $113 million just a month after being founded</a></li>
+<li id="ref-16"><a href="#citeref-16" class="ref-backlink" aria-label="Voltar à citação 16">↑</a> Business Today Malaysia — <a href="https://www.businesstoday.com.my/2024/03/02/ai-boom-makes-nvidia-third-u-s-stock-to-close-above-us2-trillion-valuation/">AI boom makes Nvidia third U.S. stock to close above US$2 trillion valuation</a></li>
+<li id="ref-17"><a href="#citeref-17" class="ref-backlink" aria-label="Voltar à citação 17">↑</a> Bureau of Industry and Security (U.S. Department of Commerce) — <a href="https://www.bis.gov/press-release/commerce-implements-new-export-controls-advanced-computing-semiconductor-manufacturing-items-peoples">Commerce Implements New Export Controls on Advanced Computing and Semiconductor Manufacturing Items to the People's Republic of China</a></li>
+<li id="ref-18"><a href="#citeref-18" class="ref-backlink" aria-label="Voltar à citação 18">↑</a> Center for AI Safety — <a href="https://www.safe.ai/statement-on-ai-risk">Statement on AI Risk</a></li>
+<li id="ref-19"><a href="#citeref-19" class="ref-backlink" aria-label="Voltar à citação 19">↑</a> Startups.com.br — <a href="https://startups.com.br/negocios/inteligencia-artificial/deepseek-o-que-aconteceu-com-a-chinesa-que-abalou-o-vale-do-silicio/">DeepSeek: o que aconteceu com a chinesa que abalou o Vale do Silício</a></li>
+<li id="ref-20"><a href="#citeref-20" class="ref-backlink" aria-label="Voltar à citação 20">↑</a> Times Brasil (licenciado CNBC) — <a href="https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/a-deepseek-abalou-os-mercados-ha-um-ano-por-que-esse-impacto-ficou-para-tras/">A DeepSeek abalou os mercados há um ano. Por que esse impacto ficou para trás?</a></li>
+<li id="ref-21"><a href="#citeref-21" class="ref-backlink" aria-label="Voltar à citação 21">↑</a> ETV Bharat — <a href="https://www.etvbharat.com/en/technology/sarvam-ai-and-bharatgen-unveil-their-latest-ai-models-at-the-india-ai-impact-summit-2026-enn26022006144">Sarvam AI And BharatGen Unveil Their Latest AI Models At The India AI Impact Summit 2026</a></li>
+<li id="ref-22"><a href="#citeref-22" class="ref-backlink" aria-label="Voltar à citação 22">↑</a> Fortune — <a href="https://fortune.com/2026/08/05/mistral-europe-ai-sovereignty-us-openai-anthropic-google-deepmind/">Europe's AI sovereignty is under threat. Could Mistral be the answer?</a></li>
+<li id="ref-23"><a href="#citeref-23" class="ref-backlink" aria-label="Voltar à citação 23">↑</a> Vontobel — <a href="https://am.vontobel.com/de/insights/2026-large-language-models-outlook">2026 Large Language Models Outlook</a></li>
+<li id="ref-24"><a href="#citeref-24" class="ref-backlink" aria-label="Voltar à citação 24">↑</a> Iternal.ai — <a href="https://iternal.ai/llm-selection-guide">LLM Comparison 2026: 30+ AI Models Benchmarked &#x26; Ranked</a></li>
+<li id="ref-25"><a href="#citeref-25" class="ref-backlink" aria-label="Voltar à citação 25">↑</a> Barchart / Belitsoft — <a href="https://www.barchart.com/story/news/1163379/belitsoft-report-2026-ai-agent-trends-enterprises-run-12-ai-agents-on-average-but-half-work-alone">Report: 2026 AI Agent Trends — Enterprises Run 12 AI Agents on Average, But Half Work Alone</a></li>
+<li id="ref-26"><a href="#citeref-26" class="ref-backlink" aria-label="Voltar à citação 26">↑</a> Stanford HAI — <a href="https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_8_policy_and_governance.pdf">AI Index Report 2026, Chapter 8: Policy and Governance</a></li>
+<li id="ref-27"><a href="#citeref-27" class="ref-backlink" aria-label="Voltar à citação 27">↑</a> OpenAI — <a href="https://openai.com/global-affairs/brazil-ai-moment-is-here">Brazil's AI moment is here</a></li>
+<li id="ref-28"><a href="#citeref-28" class="ref-backlink" aria-label="Voltar à citação 28">↑</a> Movimento Econômico — <a href="https://movimentoeconomico.com.br/tecnologia/2026/09/02/senado-aprova-projeto-que-incentiva-data-centers-com-isencao-de-tributos/">Senado aprova projeto que incentiva data centers com isenção de tributos</a></li>
+<li id="ref-29"><a href="#citeref-29" class="ref-backlink" aria-label="Voltar à citação 29">↑</a> Microsoft News Center Brasil — <a href="https://news.microsoft.com/pt-br/microsoft-anuncia-investimento-de-r-147-bilhoes-ao-longo-de-tres-anos-em-infraestrutura-de-nuvem-e-ia-e-oferece-treinamento-em-ia-em-larga-escala-para-capacitar-5-milhoes-de-pessoas-no-brasil/">Microsoft anuncia investimento de R$ 14,7 bilhões em infraestrutura de nuvem e IA no Brasil</a></li>
+<li id="ref-30"><a href="#citeref-30" class="ref-backlink" aria-label="Voltar à citação 30">↑</a> Bloomberg Línea — <a href="https://www.bloomberglinea.com.br/tech/dona-do-tiktok-escolhe-o-brasil-para-seu-maior-complexo-de-data-centers-fora-da-china/">Dona do TikTok escolhe o Brasil para seu maior complexo de data centers fora da China</a></li>
+<li id="ref-31"><a href="#citeref-31" class="ref-backlink" aria-label="Voltar à citação 31">↑</a> Blog da NVIDIA — <a href="https://blog.nvidia.com.br/blog/santos-dumont-supercomputador-do-lncc-recebe-ampliacao-quatro-vezes-maior-como-primeiro-passo-do-plano-brasileiro-de-inteligencia-artificial/">Santos Dumont recebe ampliação quatro vezes maior como primeiro passo do PBIA</a></li>
+<li id="ref-32"><a href="#citeref-32" class="ref-backlink" aria-label="Voltar à citação 32">↑</a> Advoco Brasil — <a href="https://advocobrasil.com.br/ia-brasil-pbia-analise-critica-regulacao-2026/">IA no Brasil: R$ 23 bilhões em promessas, zero linhas de código na regulação</a></li>
+<li id="ref-33"><a href="#citeref-33" class="ref-backlink" aria-label="Voltar à citação 33">↑</a> arXiv — <a href="https://arxiv.org/html/2603.10213v1">Sabiá-4 Technical Report (Laitz et al., 2026)</a></li>
+<li id="ref-34"><a href="#citeref-34" class="ref-backlink" aria-label="Voltar à citação 34">↑</a> Inforchannel — <a href="https://inforchannel.com.br/2026/05/20/soberania-lanca-ecossistema-brasileiro-de-solucoes-de-ia/">SoberanIA lança ecossistema brasileiro de IA voltado para o setor público</a></li>
+<li id="ref-35"><a href="#citeref-35" class="ref-backlink" aria-label="Voltar à citação 35">↑</a> BenchLM.ai — <a href="https://www.benchlm.ai/benchmarks/swePro">SWE-bench Pro Leaderboard — Top AI Models for Coding</a></li>
+<li id="ref-36"><a href="#citeref-36" class="ref-backlink" aria-label="Voltar à citação 36">↑</a> Forbes México — <a href="https://forbes.mx/un-ano-despues-del-impacto-de-deepseek-habra-una-avalancha-de-modelos-chinos-de-inteligencia-artificial-de-bajo-costo/">Un año después del impacto de DeepSeek</a></li>
+<li id="ref-37"><a href="#citeref-37" class="ref-backlink" aria-label="Voltar à citação 37">↑</a> Turing Post — <a href="https://www.turingpost.com/p/llms-in-china">Chinese LLMs in 2026: DeepSeek, Qwen, Kimi K3</a></li>
+<li id="ref-38"><a href="#citeref-38" class="ref-backlink" aria-label="Voltar à citação 38">↑</a> Startups.com.br (dados Bain &#x26; Company) — <a href="https://startups.com.br/negocios/inteligencia-artificial/brasil-supera-eua-no-uso-de-ia-e-aponta-para-proxima-ruptura-no-varejo-digital/">Brasil supera EUA no uso de IA e aponta para próxima ruptura no varejo digital</a></li>
+<li id="ref-39"><a href="#citeref-39" class="ref-backlink" aria-label="Voltar à citação 39">↑</a> TechSpot (citando análise da SemiAnalysis) — <a href="https://www.techspot.com/news/109542-rare-disclosure-deepseek-claims-r1-model-training-cost.html">Rare disclosure: DeepSeek claims R1 model training cost</a></li>
+<li id="ref-40"><a href="#citeref-40" class="ref-backlink" aria-label="Voltar à citação 40">↑</a> Senado Federal — <a href="https://www25.senado.leg.br/web/atividade/materias/-/materia/157233">Projeto de Lei nº 2.338, de 2023 (Marco Legal da Inteligência Artificial) — tramitação oficial</a></li>
+<li id="ref-41"><a href="#citeref-41" class="ref-backlink" aria-label="Voltar à citação 41">↑</a> Barbieri Advogados — <a href="https://www.barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil/">Regulamentação da Inteligência Artificial no Brasil: estado atual e perspectivas</a></li>
+<li id="ref-42"><a href="#citeref-42" class="ref-backlink" aria-label="Voltar à citação 42">↑</a> Epoch AI (via análise da N47) — <a href="https://www.n47.com/insights/the-ai-price-collapse-has-only-just-begun">The AI price collapse has only just begun</a></li>
+<li id="ref-43"><a href="#citeref-43" class="ref-backlink" aria-label="Voltar à citação 43">↑</a> arXiv — <a href="https://arxiv.org/html/2603.28576v1">Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in LLM Inference Services (Du, 2026)</a></li>
+</ol>
+16:["$","$L17",null,{"title":"Breve estudo sobre Large Language Models (LLMs)","subtitle":"Um estudo exploratório sobre a evolução histórica dos LLMs e o cenário atual do mercado","date":"2026-08-31","readingTime":14,"contentHtml":"$18"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+19:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Breve estudo sobre Large Language Models (LLMs) | Blog AXGenesis"}],["$","meta","1",{"name":"description","content":"Um estudo exploratório sobre a evolução histórica dos LLMs e o cenário atual do mercado."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow, noimageindex, max-video-preview:-1, max-image-preview:none, max-snippet:-1"}],["$","link","4",{"rel":"icon","href":"/assets/images/favicon.png"}],["$","$L19","5",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"
