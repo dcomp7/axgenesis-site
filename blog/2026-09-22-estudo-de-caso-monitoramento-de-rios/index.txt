@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+2:I[1402,["177","static/chunks/app/layout-ecc657e2319ba017.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[7799,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1fcf197c11312f1f.js","584","static/chunks/app/blog/layout-f0fab485d86b0413.js"],"default"]
+6:I[7696,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-1fcf197c11312f1f.js","584","static/chunks/app/blog/layout-f0fab485d86b0413.js"],"default"]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/878506a8f1ede162.css","style"]
+:HL["/_next/static/css/e613545fef98afdb.css","style"]
+:HL["/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9816a0e0ed309b6c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ba835e78b0110ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bc08e10e1c60a660-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cee54c58f389a0a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/bb9dfec9bfbb9552.css","style"]
+0:{"P":null,"b":"AFmTR-R7onFwXtgz6c6m4","p":"","c":["","blog","2026-09-22-estudo-de-caso-monitoramento-de-rios",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","2026-09-22-estudo-de-caso-monitoramento-de-rios","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/878506a8f1ede162.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e613545fef98afdb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","href":"/assets/images/logo/logo.png?v251006","as":"image"}]}],["$","body",null,{"className":"__variable_b9c7ce antialiased font-inter","children":[["$","$L2",null,{"src":"/assets/js/wow.min.js","strategy":"beforeInteractive"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L2",null,{"src":"/assets/js/main.js","strategy":"afterInteractive"}]]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/bb9dfec9bfbb9552.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","$L5",null,{}],["$","div",null,{"className":"__className_667262 pt-[100px] md:pt-[120px] lg:pt-[120px]","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]]}],{"children":[["slug","2026-09-22-estudo-de-caso-monitoramento-de-rios","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c35aa471a39f62f6.js"],""]
+13:I[5721,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c35aa471a39f62f6.js"],"default"]
+14:I[4310,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c35aa471a39f62f6.js"],"default"]
+15:Tf18,<p>Prestar serviços de tecnologia para uma empresa tem lá suas recompensas, mas, por outro lado, nem sempre o trabalho entregue fica visível ao mercado por uma série de razões: repositórios de código fonte privados, cláusulas de confidencialidade, sistemas de uso interno etc. Já fazia alguns anos a existência da vontade de realizar algum voluntariado fazendo o que eu amo, lançar ou participar de um projeto de código aberto sempre passou pela mente, afinal, não deixa de ser uma boa oportunidade para se mostrar um pouco do jeito como construímos as coisas.</p>
+<p>Acontece que este é o ano do meu TCC e a universidade definiu três requisitos obrigatórios que foi como unir o útil ao agradável:</p>
+<ul>
+<li>precisa ter contato com a sociedade civil (ONG, igreja, pequena empresa etc.)</li>
+<li>precisa gerar impacto positivo para a comunidade</li>
+<li>precisa produzir software</li>
+</ul>
+<p>A princípio, defini como tema e objetivo "<em>Explorar meios de aplicar tecnologia computacional a fim de contribuir com a melhoria contínua da saúde dos nossos rios</em>". Foi navegando na internet que tive conhecimento do programa de ciência cidadã Observando Rios<sup class="citation"><a href="#ref-1" id="citeref-1">[1]</a></sup>, da Fundação SOS Mata Atlântica<sup class="citation"><a href="#ref-2" id="citeref-2">[2]</a></sup>. Entrei em contato com a instituição solicitando consentimento e apoio para realizar a monografia e fui bem recebido. Colaboradores de outras instituições, com trajetória técnica/profissional distinta, também estão envolvidos no trabalho.</p>
+<h2>Materiais e Método</h2>
+<p>Há limitações significativas de tempo entre os membros do grupo, por isso decidimos delimitar bem o escopo do objeto de estudo e investigar, de forma amostral, 10 rios da Mata Atlântica. Após as primeiras entrevistas semiestruturadas, decidimos que seriam os rios que compõem a <strong>Bacia do Rio Tietê</strong>, por várias razões, entre elas a disponibilidade de dados históricos e a importância simbólica e histórica do Tietê ao se discutir a despoluição de rios no país. Esse escopo reduzido busca simplificar o desenvolvimento, mas em todas as decisões técnicas se pensa em escalabilidade, imaginamos como seria adicionar mais rios ou bacias ao sistema.</p>
+<p>O trabalho compreende as seguintes etapas, não necessariamente de forma sequencial:</p>
+<ul>
+<li>Revisão de literatura</li>
+<li>Entrevistas semiestruturadas com especialistas diversos</li>
+<li>Hub normalizado de dados públicos de monitoramento para os rios em questão</li>
+<li>Definição de personas e mockups</li>
+<li>Entrega de interface voltada ao cidadão comum, envolvendo componente de mapa e chat de IA (integração via API)</li>
+<li>Entrega de área administrativa para definições de contexto da IA</li>
+<li>Entrega da monografia</li>
+</ul>
+<h2>Limitações</h2>
+<p>A pesquisa tem uma série de limitações, sobretudo de tempo e financiamento, mas se conseguirmos contribuir de verdade para a causa, ainda que só um pouquinho, para nós o esforço já terá valido a pena.</p>
+<blockquote>
+<p>“O que se faz é uma gota no meio do oceano, mas, sem ela, o oceano seria menor.” (Madre Teresa)</p>
+</blockquote>
+<h2>Referências</h2>
+<ol class="references">
+<li id="ref-1"><a href="#citeref-1" class="ref-backlink" aria-label="Voltar à citação 1">↑</a> Observando Rios — Fundação SOS Mata Atlântica. Disponível em: <a href="https://sosma.org.br/iniciativas/observando-os-rios">https://sosma.org.br/iniciativas/observando-os-rios</a></li>
+<li id="ref-2"><a href="#citeref-2" class="ref-backlink" aria-label="Voltar à citação 2">↑</a> Fundação SOS Mata Atlântica — Quem somos. Disponível em: <a href="https://www.sosma.org.br/sobre/quem-somos">https://www.sosma.org.br/sobre/quem-somos</a></li>
+</ol>
+7:["$","section",null,{"className":"pb-20 md:pb-28 lg:pb-32","children":[["$","div",null,{"className":"container px-4 mx-auto","children":["$","article",null,{"className":"mx-auto max-w-[700px]","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","$L12",null,{"href":"/blog","className":"text-sm text-body-color hover:text-primary","children":"← Voltar para o blog"}],["$","$L13",null,{}]]}],["$","h1",null,{"className":"mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl","children":"Estudo de caso: monitoramento de rios da Mata Atlântica — Parte 1"}],["$","p",null,{"className":"mb-6 text-lg text-body-color","children":"Projeto open source envolvendo a sociedade civil para o segundo semestre de 2026."}],["$","div",null,{"className":"mb-8","children":["$","div",null,{"className":"flex items-center gap-2 text-sm text-body-color","children":[["$","span",null,{"className":"flex h-8 w-8 text-xs shrink-0 items-center justify-center rounded-full bg-gray-2 font-semibold text-body-color dark:bg-dark-2 dark:text-white","children":"LB"}],["$","span",null,{"className":"font-medium text-black dark:text-white","children":"Leonardo Borges"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[2," min de leitura"]}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"22 de setembro de 2026"}]]}]}],["$","div",null,{"className":"mb-8 flex flex-wrap gap-2","children":[["$","span","ia",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"ia"}],["$","span","monitoramento-de-rios",{"className":"rounded-full bg-gray-2 px-3 py-1 text-xs font-medium text-body-color dark:bg-dark-2","children":"monitoramento-de-rios"}]]}],["$","$L14",null,{"contentHtml":"$15","className":"__className_212395 prose max-w-none text-[1.3rem] leading-[1.6] dark:prose-invert prose-a:text-primary prose-headings:font-bold prose-h2:text-[1.55rem] prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:text-[1.15em]"}]]}]}],"$L16"]}]
+17:I[3999,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c35aa471a39f62f6.js"],"default"]
+18:Tf18,<p>Prestar serviços de tecnologia para uma empresa tem lá suas recompensas, mas, por outro lado, nem sempre o trabalho entregue fica visível ao mercado por uma série de razões: repositórios de código fonte privados, cláusulas de confidencialidade, sistemas de uso interno etc. Já fazia alguns anos a existência da vontade de realizar algum voluntariado fazendo o que eu amo, lançar ou participar de um projeto de código aberto sempre passou pela mente, afinal, não deixa de ser uma boa oportunidade para se mostrar um pouco do jeito como construímos as coisas.</p>
+<p>Acontece que este é o ano do meu TCC e a universidade definiu três requisitos obrigatórios que foi como unir o útil ao agradável:</p>
+<ul>
+<li>precisa ter contato com a sociedade civil (ONG, igreja, pequena empresa etc.)</li>
+<li>precisa gerar impacto positivo para a comunidade</li>
+<li>precisa produzir software</li>
+</ul>
+<p>A princípio, defini como tema e objetivo "<em>Explorar meios de aplicar tecnologia computacional a fim de contribuir com a melhoria contínua da saúde dos nossos rios</em>". Foi navegando na internet que tive conhecimento do programa de ciência cidadã Observando Rios<sup class="citation"><a href="#ref-1" id="citeref-1">[1]</a></sup>, da Fundação SOS Mata Atlântica<sup class="citation"><a href="#ref-2" id="citeref-2">[2]</a></sup>. Entrei em contato com a instituição solicitando consentimento e apoio para realizar a monografia e fui bem recebido. Colaboradores de outras instituições, com trajetória técnica/profissional distinta, também estão envolvidos no trabalho.</p>
+<h2>Materiais e Método</h2>
+<p>Há limitações significativas de tempo entre os membros do grupo, por isso decidimos delimitar bem o escopo do objeto de estudo e investigar, de forma amostral, 10 rios da Mata Atlântica. Após as primeiras entrevistas semiestruturadas, decidimos que seriam os rios que compõem a <strong>Bacia do Rio Tietê</strong>, por várias razões, entre elas a disponibilidade de dados históricos e a importância simbólica e histórica do Tietê ao se discutir a despoluição de rios no país. Esse escopo reduzido busca simplificar o desenvolvimento, mas em todas as decisões técnicas se pensa em escalabilidade, imaginamos como seria adicionar mais rios ou bacias ao sistema.</p>
+<p>O trabalho compreende as seguintes etapas, não necessariamente de forma sequencial:</p>
+<ul>
+<li>Revisão de literatura</li>
+<li>Entrevistas semiestruturadas com especialistas diversos</li>
+<li>Hub normalizado de dados públicos de monitoramento para os rios em questão</li>
+<li>Definição de personas e mockups</li>
+<li>Entrega de interface voltada ao cidadão comum, envolvendo componente de mapa e chat de IA (integração via API)</li>
+<li>Entrega de área administrativa para definições de contexto da IA</li>
+<li>Entrega da monografia</li>
+</ul>
+<h2>Limitações</h2>
+<p>A pesquisa tem uma série de limitações, sobretudo de tempo e financiamento, mas se conseguirmos contribuir de verdade para a causa, ainda que só um pouquinho, para nós o esforço já terá valido a pena.</p>
+<blockquote>
+<p>“O que se faz é uma gota no meio do oceano, mas, sem ela, o oceano seria menor.” (Madre Teresa)</p>
+</blockquote>
+<h2>Referências</h2>
+<ol class="references">
+<li id="ref-1"><a href="#citeref-1" class="ref-backlink" aria-label="Voltar à citação 1">↑</a> Observando Rios — Fundação SOS Mata Atlântica. Disponível em: <a href="https://sosma.org.br/iniciativas/observando-os-rios">https://sosma.org.br/iniciativas/observando-os-rios</a></li>
+<li id="ref-2"><a href="#citeref-2" class="ref-backlink" aria-label="Voltar à citação 2">↑</a> Fundação SOS Mata Atlântica — Quem somos. Disponível em: <a href="https://www.sosma.org.br/sobre/quem-somos">https://www.sosma.org.br/sobre/quem-somos</a></li>
+</ol>
+16:["$","$L17",null,{"title":"Estudo de caso: monitoramento de rios da Mata Atlântica — Parte 1","subtitle":"Projeto open source envolvendo a sociedade civil para o segundo semestre de 2026.","date":"2026-09-22","readingTime":2,"contentHtml":"$18"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+19:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Estudo de caso: monitoramento de rios da Mata Atlântica — Parte 1 | Blog AXGenesis"}],["$","meta","1",{"name":"description","content":"Projeto open source envolvendo a sociedade civil para o segundo semestre de 2026."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow, noimageindex, max-video-preview:-1, max-image-preview:none, max-snippet:-1"}],["$","link","4",{"rel":"icon","href":"/assets/images/favicon.png"}],["$","$L19","5",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"
